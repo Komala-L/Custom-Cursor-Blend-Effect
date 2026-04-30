@@ -1,4 +1,4 @@
-# ✨ Interactive Cursor Effect
+# ✨ Custom-Cursor-Blend-Effect
 
 A modern and minimal custom cursor interaction project built using HTML, CSS, and JavaScript.
 This project replaces the default cursor with a smooth, animated circular element that follows mouse movement and creates a visually appealing blend effect.
