@@ -21,9 +21,9 @@ A small static web project demonstrating modern front-end structure with a singl
 - Fully responsive layout
 
 
-## 🎬 Demo
+## 🎬 Preview
 
-To run the site locally, simply open `index.html` in any modern browser. For a nicer developer workflow, use a static server (instructions below).
+https://github.com/user-attachments/assets/0b68d29c-4f11-49e5-bc01-5cbb851eae7c
 
 ## Usage
 
